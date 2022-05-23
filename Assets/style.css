@@ -1,10 +1,12 @@
 h1{
     color:#491a3e;
     background: #b47ba8;
+    font-size: 80px;
 }
 
 #pink-font{
     color: #b47ba8;
+    font-size: 30px
 }
 
 .teal-bg{
@@ -16,6 +18,14 @@ h1{
     color: #5e5142;
 }
 
-#purple-font{
+#purple-font:hover{
     color: #491a3e
+}
+
+img{
+    border:20px solid #ae7d24
+}
+
+#gold-font:hover{
+    color:#ae7d24
 }
